@@ -1,2 +1,2 @@
 say-hello:
-<TAB>@echo "Hello, World!"
+	@echo "Hello, World!"
