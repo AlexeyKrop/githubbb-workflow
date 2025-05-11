@@ -1,1 +1,1 @@
-# githib-workflow
+[![show-directory](https://github.com/AlexeyKrop/githubbb-workflow/actions/workflows/show-directory.yml/badge.svg)](https://github.com/AlexeyKrop/githubbb-workflow/actions/workflows/show-directory.yml)
